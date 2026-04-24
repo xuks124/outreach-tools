@@ -1,0 +1,12 @@
+{
+  "sent": [
+    {
+      "to": "john@techcorp.com",
+      "name": "John Smith",
+      "template": "cold_email",
+      "service": "fastapi_dev",
+      "sent_at": "2026-04-24T17:02:49.487117",
+      "status": "sent"
+    }
+  ]
+}

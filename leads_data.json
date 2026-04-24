@@ -1,0 +1,18 @@
+[
+  {
+    "name": "TechCorp",
+    "email": "john@techcorp.com",
+    "service": "fastapi_dev",
+    "budget": "$1000-3000",
+    "description": "Need a FastAPI backend for customer portal",
+    "timestamp": "2026-04-24T17:05:00"
+  },
+  {
+    "name": "StartupAI",
+    "email": "alice@startupai.io",
+    "service": "ai_integration",
+    "budget": "$500-1000",
+    "description": "GPT API integration for automated customer support",
+    "timestamp": "2026-04-24T17:05:00"
+  }
+]
